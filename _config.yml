@@ -1,0 +1,35 @@
+# Site settings
+title: AWScloud.cz
+description: My life in AWScloud
+url: https://awscloud.github.io/
+baseurl: '/'
+
+author:
+  name: 'Makovec'
+  github_username:  AWScloud
+  twitter_username: makovec
+  #email: 
+  #linkedin_username: 
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+exclude: ['README.md']  
