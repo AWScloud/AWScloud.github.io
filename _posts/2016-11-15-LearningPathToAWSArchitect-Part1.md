@@ -14,11 +14,12 @@ tags:
 Based on the learning path I found in document [APN Partner Learning Path](https://d0.awsstatic.com/training-and-certification/partner-training/AWS_APN_Learning_Plan_2015_web.pdf) I decided to go first with [AWS Technical Professional](https://aws.amazon.com/partners/training/accreditation/#AWS_Technical_Professional) web based training.
 
 It contains five modules:
-* Module 1: Overview of Amazon Web Services
-* Module 2: AWS Core Services
-* Module 3: AWS Architecture and Solutions (Part 1)
-* Module 4: AWS Architecture and Solutions (Part 2)
-* Module 5: Security and Compliance
+
+ * Module 1: Overview of Amazon Web Services
+ * Module 2: AWS Core Services
+ * Module 3: AWS Architecture and Solutions (Part 1)
+ * Module 4: AWS Architecture and Solutions (Part 2)
+ * Module 5: Security and Compliance
 
 If you have no idea about cloud computing in general it could give you nice overview ported to AWS platform. For me (as I know Microsoft Azure) it was good for checking (assigning) AWS names to already know services.
 
