@@ -12,7 +12,7 @@ tags:
     - Identity
 ---
 
-# Description
+## Description
 When working with corporate identities, it's necessary to synchronize your internal identities to your cloud provider.
 As we use Active Directory, there is a method of using these identities in AWS. It's just necessary to use 
 Active Directory Federation Services (ADFS).

@@ -10,7 +10,6 @@ tags:
     - AWS
 ---
 
-# Learning path to AWS Architect - part 1
 Based on the learning path I found in document [APN Partner Learning Path](https://d0.awsstatic.com/training-and-certification/partner-training/AWS_APN_Learning_Plan_2015_web.pdf) I decided to go first with [AWS Technical Professional](https://aws.amazon.com/partners/training/accreditation/#AWS_Technical_Professional) web based training.
 
 It contains five modules:
