@@ -37,5 +37,5 @@ When I started I had an easy task ahead of me:
 
 The _useful_ point - I was thinking about different tracking options where I just click once at the beginning and twice at the end. But then I had a discussion with the client and found perfect example.
 
-As I am [mostly](/me.html) Microsoft Azure guy, our projects are tracked in [Visual Studio Team Services](https://www.visualstudio.com/team-services/). With this client we do some DevOps scenarios where everything from application (in-house developped) to the infrastructure (Azure IaaS and PaaS) is tracked there. When we were planning demonstration of this principle to management, I decided that whole build/release cycle will be started by single click of Amazon IoT Button :) So we will nicely connect two cloud leaders into one process.
+As I am mostly Microsoft Azure guy, our projects are tracked in [Visual Studio Team Services](https://www.visualstudio.com/team-services/). With this client we do some DevOps scenarios where everything from application (in-house developped) to the infrastructure (Azure IaaS and PaaS) is tracked there. When we were planning demonstration of this principle to management, I decided that whole build/release cycle will be started by single click of Amazon IoT Button :) So we will nicely connect two cloud leaders into one process.
 
