@@ -12,7 +12,7 @@ tags:
     - button
 ---
 
-In [previous post](./2017-08-23-IotButtonPart3-PrepareAWSEnvironment) I showed you how to prepare AWS IoT environment. Now we'll see how to prepare IoT button before first connection to IoT.
+In previous post I showed you how to prepare AWS IoT environment. Now we'll see how to prepare IoT button before first connection to IoT.
 
 ### Preparation work
 
