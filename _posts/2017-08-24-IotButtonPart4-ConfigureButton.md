@@ -40,7 +40,7 @@ Fill following info:
 
 * Wi-Fi SSID and password (if present)
 * For Certificate and Private Key browse your computer for files you downloaded in previous post.
-* Endpoint information - write down info you write down at the beginning of this post.
+* Endpoint information - info you write down at the beginning of this post. As a control the whole endpoint from the beginning has to be the same as will be filled here in Final Endpoint box.
 * Tick that you agree with Terms and Conditions and click continue.
 
 Now your button will be able to connect to your Wi-Fi and send data to AWS. We will test it in next part.
