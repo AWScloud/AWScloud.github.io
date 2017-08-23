@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "IoT Button Part 3 - How to set up the button"
+title:  "IoT Button Part 3 - Prepare AWS environment"
 date:   2017-08-23 13:45
 comments: false
-description: "IoT Button Part 3 - How to set up the button"
+description: "IoT Button Part 3 - Prepare AWS environment"
 categories: 
     - AWS
     - IoT
