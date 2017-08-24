@@ -43,4 +43,6 @@ Fill following info:
 * Endpoint information - info you write down at the beginning of this post. As a control the whole endpoint from the beginning has to be the same as will be filled here in Final Endpoint box.
 * Tick that you agree with Terms and Conditions and click continue.
 
-Now your button will be able to connect to your Wi-Fi and send data to AWS. We will test it in next part.
+Now your button will be able to connect to your Wi-Fi and send data to AWS. We will test it in next part. For summarization, here is what we did in this post.
+
+![Flow Configuration](/img/iot-flow2.png)
