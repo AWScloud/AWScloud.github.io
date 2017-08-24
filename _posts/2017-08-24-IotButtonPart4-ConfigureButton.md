@@ -24,7 +24,9 @@ During the button preparation you will need to know your endpoint. As you need t
 4. Select **Interact**
 5. In HTTPS section you'll see the endpoint
 
-![IoT endpoint](/img/iot-endpoint.png)
+<div class="no-okraj">
+    ![IoT endpoint](/img/iot-endpoint.png)
+</div>
 
 First part is _subdomain_ and then you see _region_ there also. Make a note about it as we will need it in few seconds.
 

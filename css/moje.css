@@ -1,3 +1,7 @@
 img {
     border:1px solid #FFA500;
 }
+
+.nookraj img {
+    border: 0pt;
+}
