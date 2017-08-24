@@ -24,7 +24,7 @@ During the button preparation you will need to know your endpoint. As you need t
 4. Select **Interact**
 5. In HTTPS section you'll see the endpoint
 
-<div class="no-okraj">
+<div class=no-okraj>
 ![IoT endpoint](/img/iot-endpoint.png)
 </div>
 
