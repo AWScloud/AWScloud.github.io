@@ -72,6 +72,6 @@ If everything is OK, you should see the rule created. And now the magic. Click y
 
 And that's all for today, let's summarize it again.
 
-
+![Rule flow](/img/iot-flow4.png)
 
 
