@@ -6,8 +6,10 @@ comments: false
 description: "IoT Button Part 6 - Send an email"
 categories: 
     - AWS
+    - IoT
 tags: 
-    - AWS
+    - dash
+    - button
 ---
 
 We tested that our button is sending data to AWS IoT and now is time to extend this info to the world. First what I tested was sending of email to my work address. We will use [Simple Notification Service](https://aws.amazon.com/sns/) for email forwarding. In general, we will have the flow same as from this picture:
